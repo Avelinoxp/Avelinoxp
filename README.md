@@ -15,7 +15,6 @@
   <a href="https://linkedin.com/in/avelinozx" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://mail.google.com/mail/" target="_blank"><img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"></a>
 </p>
-
 </div>
 
 ---
